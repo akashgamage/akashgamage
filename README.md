@@ -74,6 +74,6 @@ Learning how people hide things and where people are likely to look.
 <br><hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgamage&layout=compact&theme=dark)
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashgamage&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akashgamage&&show_icons=true&count_private=true&theme=dark&hide=issues&include_all_commits=true"/>
 
 <hr>
