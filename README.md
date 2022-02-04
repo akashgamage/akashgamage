@@ -7,15 +7,16 @@ I'm a  Web Developer 💻 &  Designer 🎨!
 </h3> 
 
 -  :boy: I'm currently following Software Engineering (UGC) degree at NSBM Green University. 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+-  :I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: bakashgamage.com-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgamage&color=brightgreen" alt="akashgamage" /> </p>
-[![Twitter: @_a_gamage_](https://img.shields.io/twitter/follow/_a_gamage_?color=blue&label=Follow%20%40_a_gamage_&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/_a_gamage_)
+<hr>
+
+<!--[![Twitter: @_a_gamage_](https://img.shields.io/twitter/follow/_a_gamage_?color=blue&label=Follow%20%40_a_gamage_&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/_a_gamage_)
 [![LinkedIn: @akashgamage](https://img.shields.io/badge/-akashgamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgamage/)](https://www.linkedin.com/in/akashgamage/)
-[![GitHub: @akashgamage](https://img.shields.io/github/followers/akashgamage?color=green&logo=github&style=flat-square)](https://github.com/akashgamage)
+[![GitHub: @akashgamage](https://img.shields.io/github/followers/akashgamage?color=green&logo=github&style=flat-square)](https://github.com/akashgamage)-->
 
 ### 🤝 Connect with me:
 
@@ -40,6 +41,9 @@ I love the entire process of developing creative websites. I love the challenge 
 - My Sql 
 - PHP
 
+<hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgamage&color=brightgreen" alt="akashgamage" /> </p>
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
