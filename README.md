@@ -11,3 +11,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <!---  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: bakashgamage.com-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgamage&color=brightgreen" alt="akashgamage" /> </p>
+[![Twitter: @_a_gamage_](https://img.shields.io/twitter/follow/_a_gamage_?color=blue&label=Follow%20%40_a_gamage_&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/_a_gamage_)
+[![LinkedIn: @akashgamage](https://img.shields.io/badge/-akashgamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgamage/)](https://www.linkedin.com/in/akashgamage/)
+[![GitHub: @akashgamage](https://img.shields.io/github/followers/akashgamage?color=green&logo=github&style=flat-square)](https://github.com/akashgamage)
