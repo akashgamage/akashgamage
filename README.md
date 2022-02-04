@@ -18,6 +18,8 @@ I'm a  Web Developer 💻 &  Designer 🎨!
 [![LinkedIn: @akashgamage](https://img.shields.io/badge/-akashgamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgamage/)](https://www.linkedin.com/in/akashgamage/)
 [![GitHub: @akashgamage](https://img.shields.io/github/followers/akashgamage?color=green&logo=github&style=flat-square)](https://github.com/akashgamage)-->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgamage&color=brightgreen" alt="akashgamage" /> </p>
+
 ### 🤝 Connect with me:
 
 [![twitter Card](https://img.icons8.com/color/50/000000/twitter.png)](https://twitter.com/_a_gamage_)
@@ -43,7 +45,6 @@ I'm a  Web Developer 💻 &  Designer 🎨!
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgamage&color=brightgreen" alt="akashgamage" /> </p>
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
