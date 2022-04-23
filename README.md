@@ -59,6 +59,7 @@ Learning how people hide things and where people are likely to look.
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 <!--![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)-->
@@ -70,7 +71,7 @@ Learning how people hide things and where people are likely to look.
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase) -->
 <!--![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)-->
+-->
 <br><hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgamage&layout=compact&theme=dark)
