@@ -100,6 +100,6 @@ Learning how people hide things and where people are likely to look.
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgamage&layout=compact&theme=dark) -->
 <p><img height="165" src="https://github-readme-stats.vercel.app/api?username=akashgamage&&show_icons=true&count_private=true&theme=dark&hide=issues&include_all_commits=true" alt="akashgamage" width="400px"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=akashgamage&" alt="akashgamage" width="400px"/></p>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=akashgamage&" alt="akashgamage" width="400px"/></p>
 
 
