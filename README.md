@@ -105,7 +105,7 @@ Learning how people hide things and where people are likely to look.
 <hr>
 
 ## snake-eating contribution graph 🐍
-![snake gif](https://github.com/akashgamage/akashgamage/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jisdulanjana/jisdulanjana/blob/output/github-contribution-grid-snake.svg)
 
 
 
