@@ -102,5 +102,10 @@ Learning how people hide things and where people are likely to look.
 <p style="float:left;"><img  src="https://github-readme-stats.vercel.app/api?username=akashgamage&show_icons=true&locale=en" alt="akashgamage" width="400px"/>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=akashgamage&" alt="akashgamage" width="400px"/></p>
 
+<hr>
+
+## snake-eating contribution graph 🐍
+![snake gif](https://github.com/akashgamage/akashgamage/blob/output/github-contribution-grid-snake.svg)
+
 
 
