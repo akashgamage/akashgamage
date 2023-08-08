@@ -33,10 +33,10 @@ Learning how people hide things and where people are likely to look.
 <hr>
 
 
-[![GitHub: @akashgamage](https://img.shields.io/github/followers/akashgamage?color=green&logo=github&style=flat-square)](https://github.com/akashgamage)
-![](https://komarev.com/ghpvc/?username=akashgamage&style=flat-square&color=brightgreen)
-[![Twitter: @_a_gamage_](https://img.shields.io/twitter/follow/_a_gamage_?color=blue&label=Follow%20%40_a_gamage_&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/_a_gamage_)
-[![LinkedIn: @akashgamage](https://img.shields.io/badge/follow-akashgamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgamage/)](https://www.linkedin.com/in/akashgamage/)
+[![GitHub: @akashgamage](https://img.shields.io/github/followers/akashgamage?color=green&logo=github&style=flat-flat)](https://github.com/akashgamage)
+![](https://komarev.com/ghpvc/?username=akashgamage&style=flat-flat&color=brightgreen)
+[![Twitter: @_a_gamage_](https://img.shields.io/twitter/follow/_a_gamage_?color=blue&label=Follow%20%40_a_gamage_&logo=twitter&logoColor=white&style=flat-flat)](https://twitter.com/_a_gamage_)
+[![LinkedIn: @akashgamage](https://img.shields.io/badge/follow-akashgamage-blue?style=flat-flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgamage/)](https://www.linkedin.com/in/akashgamage/)
 
 <hr>
 
