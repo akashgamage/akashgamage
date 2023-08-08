@@ -69,9 +69,9 @@ Learning how people hide things and where people are likely to look.
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-flat&logo=figma&logoColor=white"/>
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-purple?style=flat-flat&logo=android-studio)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-flat&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-flat&logo=firebase)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-flat&logo=visual-studio-code)
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
