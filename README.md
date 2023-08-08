@@ -72,16 +72,15 @@ Learning how people hide things and where people are likely to look.
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
-<!-- ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm) -->
-
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-flat&logo=visual-studio-code)
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-14354C?style=flat-flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-flat&logo=javascript)
-
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-flat&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-563D7C?style=flat-flat&logo=react)
+
 ![Java](https://img.shields.io/badge/-Java-563D7C?style=flat-flat&logo=java)
 <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-flat&logo=python&logoColor=white"/>
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
