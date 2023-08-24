@@ -64,9 +64,6 @@ Learning how people hide things and where people are likely to look.
 
 <hr>
 
-
-
-
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-flat&logo=figma&logoColor=white"/>
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-purple?style=flat-flat&logo=android-studio)
@@ -87,7 +84,6 @@ Learning how people hide things and where people are likely to look.
 ![MySQL](https://img.shields.io/badge/-MySQL-purple?style=flat-flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
 
 <!--![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?style=flat-square&logo=android-studio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)-->
