@@ -37,6 +37,8 @@ Learning how people hide things and where people are likely to look.
 ![](https://komarev.com/ghpvc/?username=akashgamage&style=flat-flat&color=brightgreen)
 [![Twitter: @_a_gamage_](https://img.shields.io/twitter/follow-_a_gamage_?color=blue&label=Follow%20%40_a_gamage_&logo=twitter&logoColor=white&style=flat-flat)](https://twitter.com/_a_gamage_)
 [![LinkedIn: @akashgamage](https://img.shields.io/badge/follow-akashgamage-blue?style=flat-flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgamage/)](https://www.linkedin.com/in/akashgamage/)
+https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white
+[![Behance: @akashgamage](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white&link=https://www.behance.net/akashgamage)](https://www.behance.net/akashgamage)
 
 <hr>
 
