@@ -35,10 +35,10 @@ Learning how people hide things and where people are likely to look.
 
 [![GitHub: @akashgamage](https://img.shields.io/github/followers/akashgamage?color=green&logo=github&style=flat-flat)](https://github.com/akashgamage)
 ![](https://komarev.com/ghpvc/?username=akashgamage&style=flat-flat&color=brightgreen)
-[![Twitter: @_a_gamage_](https://img.shields.io/badge/Twitter-blue?style=flat-flat&logo=Twitter&logoColor=white&link=https://twitter.com/_a_gamage_)]
 [![LinkedIn: @akashgamage](https://img.shields.io/badge/LinkedIn-blue?style=flat-flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgamage/)](https://www.linkedin.com/in/akashgamage/)
 [![Behance: @akashgamage](https://img.shields.io/badge/Behance-blue?style=flat-flat&logo=behance&logoColor=white&link=https://www.behance.net/akashgamage)](https://www.behance.net/akashgamage)
 [![Dribbble: @akashgamage](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-flat&logo=dribbble&logoColor=white&link=https://dribbble.com/akashgamage)](https://dribbble.com/akashgamage)
+[![Twitter: @akashgamage](https://img.shields.io/badge/Twitter-blue?style=flat-flat&logo=Twitter&logoColor=white&link=https://twitter.com/_a_gamage_)](https://twitter.com/_a_gamage_)
 
 <hr>
 
