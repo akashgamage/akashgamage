@@ -98,9 +98,7 @@ Learning how people hide things and where people are likely to look.
 <!--![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 -->
-<br><hr>
-
-[![@akashgamage's Holopin board](https://holopin.me/akashgamage)](https://holopin.io/@akashgamage)
+<br>
 
 <hr>
 
@@ -108,15 +106,20 @@ Learning how people hide things and where people are likely to look.
 <p style="float:left;">
     <img  src="https://github-readme-stats.vercel.app/api?username=akashgamage&show_icons=true&locale=en" alt="akashgamage" width="400px"/>
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=akashgamage&" alt="akashgamage" width="400px"/>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgamage&layout=compact&theme=light)
 </p>
 
 <hr>
 
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashgamage&theme=reactlight&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashgamage&theme=reactdark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
+
+<hr>
+
+[![@akashgamage's Holopin board](https://holopin.me/akashgamage)](https://holopin.io/@akashgamage)
 
 
 
