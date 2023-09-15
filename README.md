@@ -105,19 +105,18 @@ Learning how people hide things and where people are likely to look.
 <hr>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgamage&layout=compact&theme=dark) -->
-<p style="float:left;"><img  src="https://github-readme-stats.vercel.app/api?username=akashgamage&show_icons=true&locale=en" alt="akashgamage" width="400px"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=akashgamage&" alt="akashgamage" width="400px"/></p>
+<p style="float:left;">
+    <img  src="https://github-readme-stats.vercel.app/api?username=akashgamage&show_icons=true&locale=en" alt="akashgamage" width="400px"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=akashgamage&" alt="akashgamage" width="400px"/>
+</p>
 
 <hr>
 
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashgamage&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashgamage&theme=reactlight&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-
-## snake-eating contribution graph 🐍
-![snake gif](https://github.com/jisdulanjana/jisdulanjana/blob/output/github-contribution-grid-snake.svg) -->
 
 
 
