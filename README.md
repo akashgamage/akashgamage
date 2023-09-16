@@ -67,7 +67,7 @@ Learning how people hide things and where people are likely to look.
 <hr>
 
 <h2>Languages and Tools:</h2>
-<div>
+
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-flat&logo=figma&logoColor=white"/>
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-purple?style=flat-flat&logo=android-studio)
@@ -100,7 +100,6 @@ Learning how people hide things and where people are likely to look.
 <!--![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 -->
-</div>
 
 <hr>
 
@@ -113,6 +112,7 @@ Learning how people hide things and where people are likely to look.
 <img src="https://github-readme-stats.vercel.app/api?username=akashgamage&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="AkashGamage" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashgamage&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
+<br>
 
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
