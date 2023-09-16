@@ -102,12 +102,17 @@ Learning how people hide things and where people are likely to look.
 
 <hr>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgamage&layout=compact&theme=dark) -->
-<p style="float:left;">
-    <img  src="https://github-readme-stats.vercel.app/api?username=akashgamage&show_icons=true&locale=en" alt="akashgamage" width="400px"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=akashgamage&" alt="akashgamage" width="400px"/>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashgamage&layout=compact&theme=light)
-</p>
+<h2>GitHub Stats:</h3>
+<div style="display:flex">
+<img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BupendraDhyan&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="BupendraDhyan" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=BupendraDhyan&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="BupendraDhyan" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BupendraDhyan&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
+
+</div>
 
 <hr>
 
