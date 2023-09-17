@@ -15,39 +15,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<p align="center">
-
-<h2 align=center>Hi folks!  :wave: I'm Akash 👋</h2>
+<h2 align=center>Hi folks!:wave: I'm Akash Gamage</h2>
 
 <h3 align="center">
-I'm a  Web Developer 💻 &  Designer 🎨!
+I'm an Ui/Ux Engineer 🎨 & Flutter Developer 💻 !
 </h3> 
 
--  :boy: I'm currently following BSc(Honours) Software Engineering degree at NSBM Green University. 
--  I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. 
-Learning how people hide things and where people are likely to look.
+<h5 align="center">:boy: I'm currently following BSc(Honours) Software Engineering degree at NSBM Green University.</h5>
 
-<!---  :raised_hand: I’m looking to collaborate on open source and commercial projects.
-- 📫 How to reach me: bakashgamage.com-->
+<h5 align="center">I love the entire process of developing creative websites.<br/> I love the challenge of finding caches and spending time to meet new people.<br/>
+Learning how people hide things and where people are likely to look.</h5>
+
+<h5 align="center">:raised_hand: I’m looking to collaborate on open source and commercial projects.</h5>
+    
+<h5 align="center">
+	<a href="https://github.com/akashgamage"><img src="https://img.shields.io/github/followers/akashgamage?color=green&logo=github&style=flat-flat" alt="GitHub"/></a>
+	<a><img src="https://komarev.com/ghpvc/?username=akashgamage&style=flat-flat&color=brightgreen"/></a>
+</h5>
+
+<!-- href="https://komarev.com/ghpvc/?username=akashgamage&style=flat-flat&color=brightgreen" -->
 
 <hr>
 
+<h3 align="center">📫 How to reach me:</h3>
 
-[![GitHub: @akashgamage](https://img.shields.io/github/followers/akashgamage?color=green&logo=github&style=flat-flat)](https://github.com/akashgamage)
-![](https://komarev.com/ghpvc/?username=akashgamage&style=flat-flat&color=brightgreen)
+<h5 align="center">
+
 [![LinkedIn: @akashgamage](https://img.shields.io/badge/LinkedIn-blue?style=flat-flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgamage/)](https://www.linkedin.com/in/akashgamage/)
 [![Behance: @akashgamage](https://img.shields.io/badge/Behance-blue?style=flat-flat&logo=behance&logoColor=white&link=https://www.behance.net/akashgamage)](https://www.behance.net/akashgamage)
 [![Dribbble: @akashgamage](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-flat&logo=dribbble&logoColor=white&link=https://dribbble.com/akashgamage)](https://dribbble.com/akashgamage)
 [![Twitter: @akashgamage](https://img.shields.io/badge/Twitter-blue?style=flat-flat&logo=Twitter&logoColor=white&link=https://twitter.com/_a_gamage_)](https://twitter.com/_a_gamage_)
 
+</h5>
+
 <hr>
 
-### 🤝 Connect with me ...
+<!-- ### 🤝 Connect with me ...
 
 
 [![twitter Card](https://img.icons8.com/color/50/000000/twitter.png)](https://twitter.com/_a_gamage_)
 [![linkedin Card](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/akashgamage/)
-[![instagram Card](https://img.icons8.com/fluent/50/000000/instagram-new.png)](https://instagram.com/_a.gamage_?utm_medium=copy_link)<br>
+[![instagram Card](https://img.icons8.com/fluent/50/000000/instagram-new.png)](https://instagram.com/_a.gamage_?utm_medium=copy_link)<br> -->
 
 <!-- ### 🔭 I’m currently working on ...
 - My projects
@@ -64,9 +72,9 @@ Learning how people hide things and where people are likely to look.
 - My Sql 
 - PHP -->
 
-<hr>
+<h3 align="center">Languages and Tools:</h3>
 
-<h2>Languages and Tools:</h2>
+<h5 align="center">
 
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 <img alt="Figma" src="https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=for-the-flat&logo=figma&logoColor=white"/>
@@ -100,19 +108,20 @@ Learning how people hide things and where people are likely to look.
 <!--![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 -->
-
+</h5>
 <hr>
 
-<h2>GitHub Stats:</h2>
-<div style="display:flex">
-<img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<h3 align="center">GitHub Stats:</h3>
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashgamage&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="AkashGamage" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=akashgamage&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="AkashGamage" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashgamage&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
-<br>
+<br />
+
+<br/>
 
 <p align="center">
     <a href="https://wakatime.com/@Goblin8888">
