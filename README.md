@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
+<!-- ![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)-->
+
+![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
 <h2 align=center>Hi folks!:wave: I'm Akash Gamage</h2>
 
 <h3 align="center">
-I'm an Ui/Ux Engineer 🎨 & Flutter Developer 💻 !
+I'm Website and Mobile App Developer 💻 <br/>
+	an Ui/Ux Engineer 🎨
 </h3> 
 
 <h5 align="center">:boy: I'm currently following BSc(Honours) Software Engineering degree at NSBM Green University.</h5>
