@@ -41,11 +41,12 @@ Learning how people hide things and where people are likely to look.</h5>
 
 <hr>
 
-<h3 align="center">📫 How to reach me:</h3>
+<h3 align="center">How to reach me:</h3>
 
 <h5 align="center">
 
 [![LinkedIn: @akashgamage](https://img.shields.io/badge/LinkedIn-blue?style=flat-flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akashgamage/)](https://www.linkedin.com/in/akashgamage/)
+[![Gmail: @bakashgamage](https://img.shields.io/badge/@Gmail-D14836?style=flat-flat&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/akashgamage/)](bakashgamage@gmail.com)
 [![Behance: @akashgamage](https://img.shields.io/badge/Behance-blue?style=flat-flat&logo=behance&logoColor=white&link=https://www.behance.net/akashgamage)](https://www.behance.net/akashgamage)
 [![Dribbble: @akashgamage](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-flat&logo=dribbble&logoColor=white&link=https://dribbble.com/akashgamage)](https://dribbble.com/akashgamage)
 [![Twitter: @akashgamage](https://img.shields.io/badge/Twitter-blue?style=flat-flat&logo=Twitter&logoColor=white&link=https://twitter.com/_a_gamage_)](https://twitter.com/_a_gamage_)
@@ -93,9 +94,9 @@ Learning how people hide things and where people are likely to look.</h5>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-flat&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-563D7C?style=flat-flat&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 ![Java](https://img.shields.io/badge/-Java-563D7C?style=flat-flat&logo=java)
-<img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-flat&logo=python&logoColor=white"/>
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-purple?style=flat-flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-flat&logo=git)
