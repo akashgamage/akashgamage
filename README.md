@@ -139,6 +139,14 @@ Learning how people hide things and where people are likely to look.</h5>
 
 <hr>
 
+<h3 align="center">Hacktoberfest 2023:</h3>
+
+[![An image of @akashgamage8's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashgamage8)](https://holopin.io/@akashgamage8)
+
+<hr>
+
+<h3 align="center">Hacktoberfest 2022:</h3>
+
 [![@akashgamage's Holopin board](https://holopin.me/akashgamage)](https://holopin.io/@akashgamage)
 
 
